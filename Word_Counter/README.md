@@ -1,0 +1,1 @@
+# This program counts number of words for a given text file.

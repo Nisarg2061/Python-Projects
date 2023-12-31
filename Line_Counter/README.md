@@ -1,0 +1,1 @@
+# This program counts number of lines for a given text file.
